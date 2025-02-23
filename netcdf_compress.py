@@ -1,3 +1,6 @@
+# python nc4cp.py {input_dir} {output_dir} -c 7
+# python nc4cp.py input_file.nc output_file.nc -c 8
+
 import xarray as xr
 import os
 import sys
